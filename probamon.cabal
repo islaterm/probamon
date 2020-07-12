@@ -7,14 +7,14 @@ cabal-version: 1.12
 -- hash: 34c44bee0f343e90b4c6ad8981bbc8f87174d5700d7b79ab6f39a2c432021015
 
 name:           probamon
-version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/probamon#readme>
-homepage:       https://github.com/githubuser/probamon#readme
-bug-reports:    https://github.com/githubuser/probamon/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2020 Author name here
-license:        BSD3
+version:        1.0
+description:    Please see the README on GitHub at <https://github.com/islaterm/probamon/blob/master/README.md>
+homepage:       https://github.com/islaterm/probamon/blob/master/README.md
+bug-reports:    https://github.com/islaterm/probamon/issues
+author:         Ignacio Slater Muñoz
+maintainer:     ignacio.slater@ug.uchile.cl
+copyright:      2020 Ignacio Slater Muñoz
+license:        CC
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
@@ -23,7 +23,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/probamon
+  location: https://github.com/islaterm/probamon
 
 library
   exposed-modules:

@@ -1,10 +1,10 @@
 name:                probamon
-version:             0.1.0.0
-github:              "githubuser/probamon"
-license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2020 Author name here"
+version:             1.0
+github:              "islaterm/probamon"
+license:             CC
+author:              "Ignacio Slater Muñoz"
+maintainer:          "ignacio.slater@ug.uchile.cl"
+copyright:           "2020 Ignacio Slater Muñoz"
 
 extra-source-files:
 - README.md
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/githubuser/probamon#readme>
+description:         Please see the README on GitHub at <https://github.com/islaterm/probamon#readme>
 
 dependencies:
 - base >= 4.7 && < 5
