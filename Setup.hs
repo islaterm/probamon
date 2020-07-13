@@ -8,5 +8,5 @@
 
 -- v1.0
 
-import Distribution.Simple
+import           Distribution.Simple
 main = defaultMain
