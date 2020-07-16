@@ -8,5 +8,9 @@
 
 -- v1.0.0-rc.1
 
-import           Distribution.Simple
-main = defaultMain
+module Main where
+
+import Lib
+
+main :: IO ()
+main = print resultE3b
